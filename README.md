@@ -50,7 +50,7 @@ pipeline that prepares imaging data for ML-based analysis.
 
 ## Privacy and Data Ethics
 
-⚠️ **Important Note on Data Privacy**
+**Important Note on Data Privacy**
 
 This repository **does not include any real medical data**.
 
